@@ -1,0 +1,14 @@
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/bin/Debug/netcoreapp3.1/Lab06
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/bin/Debug/netcoreapp3.1/Lab06.deps.json
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/bin/Debug/netcoreapp3.1/Lab06.runtimeconfig.json
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/bin/Debug/netcoreapp3.1/Lab06.runtimeconfig.dev.json
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/bin/Debug/netcoreapp3.1/Lab06.dll
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/bin/Debug/netcoreapp3.1/Lab06.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/obj/Debug/netcoreapp3.1/Lab06.csproj.AssemblyReference.cache
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/obj/Debug/netcoreapp3.1/Lab06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/obj/Debug/netcoreapp3.1/Lab06.AssemblyInfoInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/obj/Debug/netcoreapp3.1/Lab06.AssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/obj/Debug/netcoreapp3.1/Lab06.csproj.CoreCompileInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/obj/Debug/netcoreapp3.1/Lab06.dll
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/obj/Debug/netcoreapp3.1/Lab06.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/obj/Debug/netcoreapp3.1/Lab06.genruntimeconfig.cache
