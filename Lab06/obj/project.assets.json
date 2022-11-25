@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/Lab06.csproj",
+      "projectUniqueName": "/Users/kamranimranli/Desktop/CodeAcademy/C#/LABs/Lab06/Lab06/Lab06.csproj",
       "projectName": "Lab06",
-      "projectPath": "/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/Lab06.csproj",
+      "projectPath": "/Users/kamranimranli/Desktop/CodeAcademy/C#/LABs/Lab06/Lab06/Lab06.csproj",
       "packagesPath": "/Users/kamranimranli/.nuget/packages/",
-      "outputPath": "/Users/kamranimranli/Desktop/CodeAcademy/LABs/Lab06/Lab06/obj/",
+      "outputPath": "/Users/kamranimranli/Desktop/CodeAcademy/C#/LABs/Lab06/Lab06/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kamranimranli/.nuget/NuGet/NuGet.Config"
@@ -61,7 +61,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.osx-x64",
-            "version": "[3.1.28, 3.1.28]"
+            "version": "[3.1.31, 3.1.31]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
